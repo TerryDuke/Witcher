@@ -143,4 +143,12 @@ bm_witcher_2 = {
 			dynasty = 20000
 		}
 	}
+	
+	selectable_character = {
+		id = 34999 # Geralt
+	}
+	
+	selectable_character = {
+		id = 155103 # Letho
+	}
 }
